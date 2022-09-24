@@ -1,0 +1,14 @@
+C:\Users\jvton\OneDrive\Работен плот\C# programs\Fundamentals\11. Sort Numbers\bin\Debug\netcoreapp3.1\11. Sort Numbers.exe
+C:\Users\jvton\OneDrive\Работен плот\C# programs\Fundamentals\11. Sort Numbers\bin\Debug\netcoreapp3.1\11. Sort Numbers.deps.json
+C:\Users\jvton\OneDrive\Работен плот\C# programs\Fundamentals\11. Sort Numbers\bin\Debug\netcoreapp3.1\11. Sort Numbers.runtimeconfig.json
+C:\Users\jvton\OneDrive\Работен плот\C# programs\Fundamentals\11. Sort Numbers\bin\Debug\netcoreapp3.1\11. Sort Numbers.runtimeconfig.dev.json
+C:\Users\jvton\OneDrive\Работен плот\C# programs\Fundamentals\11. Sort Numbers\bin\Debug\netcoreapp3.1\11. Sort Numbers.dll
+C:\Users\jvton\OneDrive\Работен плот\C# programs\Fundamentals\11. Sort Numbers\bin\Debug\netcoreapp3.1\11. Sort Numbers.pdb
+C:\Users\jvton\OneDrive\Работен плот\C# programs\Fundamentals\11. Sort Numbers\obj\Debug\netcoreapp3.1\11. Sort Numbers.csproj.AssemblyReference.cache
+C:\Users\jvton\OneDrive\Работен плот\C# programs\Fundamentals\11. Sort Numbers\obj\Debug\netcoreapp3.1\11. Sort Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jvton\OneDrive\Работен плот\C# programs\Fundamentals\11. Sort Numbers\obj\Debug\netcoreapp3.1\11. Sort Numbers.AssemblyInfoInputs.cache
+C:\Users\jvton\OneDrive\Работен плот\C# programs\Fundamentals\11. Sort Numbers\obj\Debug\netcoreapp3.1\11. Sort Numbers.AssemblyInfo.cs
+C:\Users\jvton\OneDrive\Работен плот\C# programs\Fundamentals\11. Sort Numbers\obj\Debug\netcoreapp3.1\11. Sort Numbers.csproj.CoreCompileInputs.cache
+C:\Users\jvton\OneDrive\Работен плот\C# programs\Fundamentals\11. Sort Numbers\obj\Debug\netcoreapp3.1\11. Sort Numbers.dll
+C:\Users\jvton\OneDrive\Работен плот\C# programs\Fundamentals\11. Sort Numbers\obj\Debug\netcoreapp3.1\11. Sort Numbers.pdb
+C:\Users\jvton\OneDrive\Работен плот\C# programs\Fundamentals\11. Sort Numbers\obj\Debug\netcoreapp3.1\11. Sort Numbers.genruntimeconfig.cache

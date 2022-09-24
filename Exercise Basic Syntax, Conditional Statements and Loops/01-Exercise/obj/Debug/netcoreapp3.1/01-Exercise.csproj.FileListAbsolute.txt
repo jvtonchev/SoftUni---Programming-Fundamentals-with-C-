@@ -1,0 +1,14 @@
+C:\Users\jvton\OneDrive\Работен плот\C# programs\Fundamentals\01-Exercise\bin\Debug\netcoreapp3.1\01-Exercise.exe
+C:\Users\jvton\OneDrive\Работен плот\C# programs\Fundamentals\01-Exercise\bin\Debug\netcoreapp3.1\01-Exercise.deps.json
+C:\Users\jvton\OneDrive\Работен плот\C# programs\Fundamentals\01-Exercise\bin\Debug\netcoreapp3.1\01-Exercise.runtimeconfig.json
+C:\Users\jvton\OneDrive\Работен плот\C# programs\Fundamentals\01-Exercise\bin\Debug\netcoreapp3.1\01-Exercise.runtimeconfig.dev.json
+C:\Users\jvton\OneDrive\Работен плот\C# programs\Fundamentals\01-Exercise\bin\Debug\netcoreapp3.1\01-Exercise.dll
+C:\Users\jvton\OneDrive\Работен плот\C# programs\Fundamentals\01-Exercise\bin\Debug\netcoreapp3.1\01-Exercise.pdb
+C:\Users\jvton\OneDrive\Работен плот\C# programs\Fundamentals\01-Exercise\obj\Debug\netcoreapp3.1\01-Exercise.csproj.AssemblyReference.cache
+C:\Users\jvton\OneDrive\Работен плот\C# programs\Fundamentals\01-Exercise\obj\Debug\netcoreapp3.1\01-Exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jvton\OneDrive\Работен плот\C# programs\Fundamentals\01-Exercise\obj\Debug\netcoreapp3.1\01-Exercise.AssemblyInfoInputs.cache
+C:\Users\jvton\OneDrive\Работен плот\C# programs\Fundamentals\01-Exercise\obj\Debug\netcoreapp3.1\01-Exercise.AssemblyInfo.cs
+C:\Users\jvton\OneDrive\Работен плот\C# programs\Fundamentals\01-Exercise\obj\Debug\netcoreapp3.1\01-Exercise.csproj.CoreCompileInputs.cache
+C:\Users\jvton\OneDrive\Работен плот\C# programs\Fundamentals\01-Exercise\obj\Debug\netcoreapp3.1\01-Exercise.dll
+C:\Users\jvton\OneDrive\Работен плот\C# programs\Fundamentals\01-Exercise\obj\Debug\netcoreapp3.1\01-Exercise.pdb
+C:\Users\jvton\OneDrive\Работен плот\C# programs\Fundamentals\01-Exercise\obj\Debug\netcoreapp3.1\01-Exercise.genruntimeconfig.cache

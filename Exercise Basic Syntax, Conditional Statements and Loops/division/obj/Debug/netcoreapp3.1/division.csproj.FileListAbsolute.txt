@@ -1,0 +1,14 @@
+C:\Users\jvton\OneDrive\Работен плот\C# programs\Fundamentals\division\obj\Debug\netcoreapp3.1\division.csproj.AssemblyReference.cache
+C:\Users\jvton\OneDrive\Работен плот\C# programs\Fundamentals\division\obj\Debug\netcoreapp3.1\division.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jvton\OneDrive\Работен плот\C# programs\Fundamentals\division\obj\Debug\netcoreapp3.1\division.AssemblyInfoInputs.cache
+C:\Users\jvton\OneDrive\Работен плот\C# programs\Fundamentals\division\obj\Debug\netcoreapp3.1\division.AssemblyInfo.cs
+C:\Users\jvton\OneDrive\Работен плот\C# programs\Fundamentals\division\obj\Debug\netcoreapp3.1\division.csproj.CoreCompileInputs.cache
+C:\Users\jvton\OneDrive\Работен плот\C# programs\Fundamentals\division\bin\Debug\netcoreapp3.1\division.exe
+C:\Users\jvton\OneDrive\Работен плот\C# programs\Fundamentals\division\bin\Debug\netcoreapp3.1\division.deps.json
+C:\Users\jvton\OneDrive\Работен плот\C# programs\Fundamentals\division\bin\Debug\netcoreapp3.1\division.runtimeconfig.json
+C:\Users\jvton\OneDrive\Работен плот\C# programs\Fundamentals\division\bin\Debug\netcoreapp3.1\division.runtimeconfig.dev.json
+C:\Users\jvton\OneDrive\Работен плот\C# programs\Fundamentals\division\bin\Debug\netcoreapp3.1\division.dll
+C:\Users\jvton\OneDrive\Работен плот\C# programs\Fundamentals\division\bin\Debug\netcoreapp3.1\division.pdb
+C:\Users\jvton\OneDrive\Работен плот\C# programs\Fundamentals\division\obj\Debug\netcoreapp3.1\division.dll
+C:\Users\jvton\OneDrive\Работен плот\C# programs\Fundamentals\division\obj\Debug\netcoreapp3.1\division.pdb
+C:\Users\jvton\OneDrive\Работен плот\C# programs\Fundamentals\division\obj\Debug\netcoreapp3.1\division.genruntimeconfig.cache
